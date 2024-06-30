@@ -11,10 +11,3 @@ nav_order: 1
 ---
 
 This page is currently under development.
-
-<!-- ---
-title: Default layout child page
-layout: default
-parent: A minimal layout page 
-grand_parent: Layout
---- -->
